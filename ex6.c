@@ -35,7 +35,7 @@ int main(void) {
 
         if (isalpha(c)) {
             totalLetters++;
-        }else if (c == ' ') { // Eger karakter bosluk ise
+        }else if (c == ' ') { 
             totalWords++;
         }else if (c == '.' || c == '!' || c == '?'|| c == ',') {
             totalSentences++;
