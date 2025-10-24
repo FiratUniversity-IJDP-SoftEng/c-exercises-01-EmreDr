@@ -1,4 +1,5 @@
 //Write a program that asks "Do you have a cat or a dog?" and then prints what sound that pet makes.
+// Made by Muhammed Emre Dere
 #include <stdio.h>
 #include <string.h>
 int main() {
